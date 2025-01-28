@@ -22,8 +22,6 @@ The project is divided into three main steps, each implemented in a Jupyter Note
 - **Random Forest**
 - **Support Vector Machine (SVM)**
 
----
-
 ## Evaluation Metrics
 The following metrics are used to evaluate model performance:
 - **Accuracy**
